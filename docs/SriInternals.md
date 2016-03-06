@@ -1,6 +1,7 @@
 # Sri Internals
 
-The main goal of Sri is in line with React as much as possible. Currently Sri contains 6 main modules: core, addons, universal, web, mobile, and relay.
+The main goal of Sri is to be in line with React as much as possible. Currently Sri contains 6 main modules: 
+[core](#core), addons, universal, web, mobile, and relay.
 
 
 # Core
